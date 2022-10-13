@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
 
-
-A data-driven personal website
-
-Lorem ipsum
+I am a Senior at Vanderbilt University where I student Computer Science and Economics. At Vanderbilt, I serve as the Head Teaching Assisstant for CS 3251—Intermediate Software Design. 
